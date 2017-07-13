@@ -1,0 +1,38 @@
+body{
+		background-image: url("gplaypattern.png");
+
+}
+
+.indexBtn{
+	padding:10px;
+}
+
+.indexBtn:hover{
+border-radius: 10px;
+background-color: #E3E7E8;
+}
+
+
+
+a:hover{
+	color:#00E8A6;
+}
+#legend{
+	color: #fff;
+	border-radius: 5px;
+	text-align: center;
+
+}
+
+#legend ul{
+	list-style-type: none;
+	padding: 5px;
+}
+
+#legend ul li{
+	display:inline;
+	border-radius: 3px;
+	margin: 3px;
+	
+}
+
